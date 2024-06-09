@@ -1,2 +1,6 @@
 .DS_Store
 .jupyter
+.ipynb_checkpoints
+notebooks/.ipynb_checkpoints/
+figuras/.DS_Store
+datos/.DS_Store
