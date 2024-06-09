@@ -16,10 +16,10 @@ Curso de Aprendizaje Automático. Semestre B-2024. Departamento de Computación,
 - **Tema 3:** Clasificador Bayesiano Ingenuo (Naive Bayes)
 - **Tema 4:** Perceptrón
 - **Tema 5:** Regresión Logística
-- **Tema 6:** Maquinas de Vectores de Soporte
+- **Tema 6:** Máquinas de Vectores de Soporte
 - **Tema 7:** Vecino más Cercano
 - **Tema 8:** Arboles de Decisión
-- **Tema 9:** Random Forest
+- **Tema 9:** Random Forest (Bosque Aleatorio)
 - **Tema 10:** Ensemble Learning (Aprendizaje con Ensamble de Algoritmos)
 
 ### Unidad 3: Redes Neuronales
@@ -32,8 +32,8 @@ Curso de Aprendizaje Automático. Semestre B-2024. Departamento de Computación,
 
 ### Unidad 4: Aprendizaje no Supervisado
 
-- **Tema 1:**. Análisis de Componentes Principales
-- **Tema 2:**. Agrupamiento
+- **Tema 1:** Análisis de Componentes Principales
+- **Tema 2:** Agrupamiento
 - **Tema 3:** Agrupamiento Jerárquico
 
 ### Unidad 5: Aprendizaje por Refuerzo
